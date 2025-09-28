@@ -1,0 +1,15 @@
+/Debug/
+/Release/
+/.build/
+/.settings/
+/metadata/
+/*.launch
+*.ioc.user
+*.axf
+*.elf
+*.hex
+*.o
+*.d
+*.map
+.DS_Store
+Thumbs.db
